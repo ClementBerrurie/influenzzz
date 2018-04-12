@@ -1,0 +1,111 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/j7lQEsAig41VjvDQ7yguNE1RBOc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/ylqOyWX26S4D9nZHRdM6CBAH_Kc\"",
+   "id": "UC_d6W32xuEAyPlf_KmvvwEA",
+   "snippet": {
+    "title": "williamVEVO",
+    "description": "will.i.am on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+    "publishedAt": "2009-05-12T05:29:58.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-RoTCBfEyp3Q/AAAAAAAAAAI/AAAAAAAAAAA/UC_ctK1pbMk/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "width": 88,
+      "height": 88
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-RoTCBfEyp3Q/AAAAAAAAAAI/AAAAAAAAAAA/UC_ctK1pbMk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "width": 240,
+      "height": 240
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-RoTCBfEyp3Q/AAAAAAAAAAI/AAAAAAAAAAA/UC_ctK1pbMk/s800-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "width": 800,
+      "height": 800
+     }
+    },
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "williamVEVO",
+     "description": "will.i.am on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+    }
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "likes": "LL_d6W32xuEAyPlf_KmvvwEA",
+     "uploads": "UU_d6W32xuEAyPlf_KmvvwEA",
+     "watchHistory": "HL",
+     "watchLater": "WL"
+    }
+   },
+   "statistics": {
+    "viewCount": "1928528140",
+    "commentCount": "1324",
+    "subscriberCount": "4048116",
+    "hiddenSubscriberCount": false,
+    "videoCount": "54"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/04rlf",
+     "/m/04rlf",
+     "/m/064t9"
+    ],
+    "topicCategories": [
+     "https://en.wikipedia.org/wiki/Pop_music",
+     "https://en.wikipedia.org/wiki/Music"
+    ]
+   },
+   "brandingSettings": {
+    "channel": {
+     "title": "williamVEVO",
+     "description": "will.i.am on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+     "keywords": "vevo music video official",
+     "defaultTab": "Featured",
+     "trackingAnalyticsAccountId": "UA-55848798-6",
+     "showBrowseView": true,
+     "featuredChannelsTitle": "Featured Channels",
+     "featuredChannelsUrls": [
+      "UC2pmfLm7iq6Ov1UwYrWYkZA"
+     ],
+     "unsubscribedTrailer": "aKtwChTq-3s",
+     "profileColor": "#000000",
+     "defaultLanguage": "en"
+    },
+    "image": {
+     "bannerImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerMobileImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w640-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTabletLowImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1138-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTabletImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1707-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTabletHdImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w2276-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTabletExtraHdImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerMobileLowImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w320-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerMobileMediumHdImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w960-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerMobileHdImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1280-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerMobileExtraHdImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1440-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTvImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w2120-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTvLowImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w854-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTvMediumImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1280-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no/channels4_banner",
+     "bannerTvHighImageUrl": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w1920-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no/channels4_banner"
+    },
+    "hints": [
+     {
+      "property": "channel.banner.mobile.medium.image.url",
+      "value": "https://yt3.ggpht.com/-eUA84-_EMgE/WOLOC9IoLRI/AAAAAAAAK24/jiARYym5JkkNEvF5T6psewdO7dWBYAn-QCL8B/w640-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no/channels4_banner"
+     },
+     {
+      "property": "channel.featured_tab.template.string",
+      "value": "Everything"
+     }
+    ]
+   }
+  }
+ ]
+}
